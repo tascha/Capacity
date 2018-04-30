@@ -65,48 +65,24 @@ The needs and assets of your community are two sides of the same coin. Being abl
 
 Community needs and assets connect directly with assessing the capacity of your library. What are your capacity needs? How are they related to community needs? What assets can you leverage to fill these gaps?
 
-When assessing community needs it is important to collect information from as many members of the community as possible. Luckily, you’ve already identified some tools to do this in our Community Mapping module, in section 3.4 “Learn About Your Community Assets.” In this section we will be discussing additional tools that you can use which are especially strong when assessing your library’s capacity and community needs. As a starting point, brainstorming about your community and identifying the groups that make up your community can be helpful. Talking with other workers in your library, as well as patrons, can help you to make sure you have not left any community members out of your analysis. From here, there are a variety of next steps that you can follow to assess the needs of your community:
+When assessing community needs it is important to collect information from as many members of the community as possible. Luckily, you’ve already identified some tools to do this in our Community Mapping module, in section 3.4 “Learn About Your Community Assets.” In this section we will be discussing additional tools that you can use which are especially strong when assessing your library’s capacity and community needs. As a starting point, brainstorming about your community and identifying the groups that make up your community can be helpful. Talking with other workers in your library, as well as patrons, can help you to make sure you have not left any community members out of your analysis. From here, there are a variety of next steps that you can follow to assess the needs of your community.
 
-| **Informal Interviews** | **Informal interviews** are open-ended interviews that do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. |
+| **ASSESSMENT TECHNIQUES **|
 | --- | --- |
-| **Town Halls** | **Town Halls** are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping. |
-| **Other Informal Methods** | Other informal methods include: |
+| **Informal Interviews** | **Informal interviews** are open-ended interviews that do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner.<p>Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at the grocery store... the opportunities are endless.<ul><li><b>Step 1:</b> Prepare a few questions to ask ahead of time</li><li><br>Step 2:<br/>Memorize the essence of one or two questions (it does not have to be word for word)</li><li><b>Step 3:</b> Ask these questions on the fly while in conversation with your community</li><li><b>Step 4: Write a summary of the conversation afterwards for future reference</li></ul>
+| **Town Halls** | **Town Halls** are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping.<p>Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business. <p>This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating: http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html<p>Here is an example of how Anne Arundel County Public Library performed formal town halls regarding budget cuts: https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103 |
+| **Other Informal Methods** | Other informal methods include: <ul><li> <b>“Postcard Surveys”</b> where you send a postcard with close ended questions and community members can mark it and mail it back</li><li><b>Using the “Grape Vine”</b> by asking a key member of a certain organization to ask their members a few questions and get back to you with their answers</li><li><b>Observation:</b> attending community events, organizations, schools, and other locations where your community meets and simply observing. What are some issues being raised?</li></ul>|
 
 Once you have used one or more of these methods to collect information about your community and their needs, you can map these out visually. Here is an example using our favorite midsize library:
 
 | **Community** | **Name** | **Needs** |
 | --- | --- | --- |
-| **Individuals** | 
-
-*   Carmen
-*   Alan
-*   Elaine
-
- | -Better wheelchair access |
-| **Groups** | 
-
-*   Teens
-*   Parents
-*   Deaf Community
-*   Autistic Community
-
- | -Cooperative learning space |
-| **Associations** | 
-
-*   Neighborhood Association I
-*   Neighborhood Association II
-*   PTA
-
- | -More Farsi language books and materials |
-| **Institutions** | 
-
-*   Parkland Elementary School
-*   Harbor Middle School
-*   Orchard Ridge High School
-
- | -Technology programs for elementary students |
+| **Individuals** | <ul><li>Carmen</li><li>Alan</li><li>Elaine</li></ul> | <ul><li>Better wheelchair access</li><li>Resume and job training</li><li>-Sensory friendly lighting</li></ul>|
+| **Groups** | <ul><li>Teens</li><li>Parents</li><li>Deaf Community</li><li>Autistic Community</li></ul> | <ul><li>Cooperative learning space</li><li>Stroller parking</li><li>ASL speakers</li><li>Staff sensitivity training</li></ul> |
+| **Associations** | <ul><li>Neighborhood Association I</li><li>Neighborhood Association II</li><li>PTA</li></ul> | <ul><li>More Farsi language books and materials</li><li>New member recruitment through posters, etc.</li><li>Additional meeting space</li></ul> |
+| **Institutions** | <ul><li>Parkland Elementary School</li><li>Harbor Middle School</li><li>Orchard Ridge High School</li></ul> | <ul><li>Technology programs for elementary students</li><li>Tween library representation and materials</li><li>Additional teen services outreach</li></ul> |
 
 You may have noticed that this map lists the needs of community members in relation to our Midsize library. We encourage you, in your own assessment, to list the needs of your community members that don’t necessarily relate to your library in addition to this list. These can include needs like: resources access for your homeless community, musical instruments for the high school band, and more. While ways to support your community in these needs might not be obvious at first, knowing that the needs exist can help your library to provide supplemental resources. For example, while your library cannot provide laundry machines for your homeless youth, it can provide pamphlets with maps marking where safe facilities like that are freely available.
 
-| **ADDITIONAL RESOURCES** |
-| --- |
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span>
+<ul><li>https://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_</li><li>https://ctb.ku.edu/en</li></ul></div>
