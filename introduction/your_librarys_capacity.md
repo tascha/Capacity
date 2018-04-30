@@ -1,0 +1,19 @@
+## Your Library’s Capacity {#your-library-s-capacity}
+
+Capacity can mean the **physical space** of your library, for instance how large of a meeting room you have or the number of children and families that can fit into your storytime space. But the idea of capacity can also extend outside of physical spaces to other aspects of your library.
+
+**Partnerships** are an important aspect for the capacity of your individual library. As mentioned in our Community Partnerships module, partnerships can be formal ones with specific organizations, or informal ones with members of your community. For instance, a library might formally partner with the local Boys and Girls club for specific services for youth after school, or informally partner with a local artist by asking them to take part in a youth services program.
+
+**Technology** is another important piece for library capacity. How many computers does your library have? What software programs are loaded on those computers? Other forms of technology might include large items like tablets, or smaller items like headphones or MP3 players. The technology capacity of your library can be broken into two parts:
+
+*   Acquisition: refers to your library’s unique capacity to acquire technology. This includes your library’s technology budget, as well as the sources your library uses to acquire technology. For example, if you had a community partnership with robotics club, they might be able to help supply you with motors. Both your budget and your library’s unique partnerships play roles in your technology acquisition.
+*   Use: refers to your library’s use of technology. What is your library’s capacity in relation to technology use? Important aspects to consider include staff members’ abilities to use and teach the use of different technologies, as well as your community’s access to technology. What technology needs are already met in your community? Which are met at your library? Which are not met at your library?
+
+**Staffing** is one of the most important aspects of your library’s capacity, especially in terms of the programs that your library is able to host. This refers not only to the number of staff members your library has, but also to your staff’s strengths, weaknesses, and unique abilities. For example, how many youth librarians do you have on staff? Does your library have specific technology staff, or staff that have been trained in certain methods? The availability of your staff is also an important aspect of your library’s capacity. For instance, if you have one teen librarian on staff who is in charge of the reference desk for a certain number of hours a day in addition to their other duties, they may have less capacity to do a teen program series.
+
+As you can see from the list above, many aspects of capacity are interconnected. For example, the amount of staff who are trained in certain technology uses (Staffing) ties in with your library’s technology capacity (Technology Use). The space capacity of your library relates to the staffing of your library, as well as the type (and amount) of technology that can be acquired.
+
+If you know the unique capacity of your library, programing using those strengths can help your library reach its full potential.
+
+| While we have been discussing the idea of capacity in the following areas: partnerships, technology acquisition, technology use, space, and staffing, it is important to keep in mind that your unique capacity will not keep your library from being able to implement connected learning infused youth programs. These concepts can be used in all libraries, regardless of capacity! Later in the module we will discuss how to troubleshoot capacity challenges for your library, no matter the building or budget size. |
+| --- |
