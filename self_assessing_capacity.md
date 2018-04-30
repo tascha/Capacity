@@ -1,7 +1,9 @@
 # Self Assessing Capacity {#self-assessing-capacity}
 
-| **After completing this section, you will be able to:** |
-| --- |
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS SECTION</h5></span>
+After completing this section, you will be able to...
+<ul><li>Self-assess your library or department’s capacity in each area</li><li>Create your own list of assets and needs</li></ul></div>
+
 
 In order to understand the unique capacity of your library and how you can leverage it when creating programs, you need to get specific about the resources you already have. But where do you start? It might be helpful to take a moment to reflect on a recent library program you presented. What were the strengths? Where were the weaknesses? For each strength and weakness, think about what connections there might be to the specific capacity areas of your library.
 
@@ -57,7 +59,6 @@ Self-assessing your library’s capacity can also be done by breaking it down fu
 | Teen Services | -1 Teen Services Staff | Large afterschool teen population is too big for 1 staff member | Leverage Library Associates, as well as community partnerships and knowledgeable volunteers to help staff programs |
 | Library Associates | -4 Library Associates | Library Associates have little extra time because they shelve books and work the front desk--no library page positions | Work with community volunteers to help train them in book shelving, which will free up the time of a few of the Library Associates to help with other programs |
 
-| Remember that while you are including the improvements you would like to make to your library’s capacity in different areas, those **improvements can and should be relatively modest and easily implemented with the resources you already have**. Focus on your library’s strengths. How can you use those strengths to make small improvements to your overall capacity? |
-| --- |
+<div class="table-format sidebar">Remember that while you are including the improvements you would like to make to your library’s capacity in different areas, those <b>improvements can and should be relatively modest and easily implemented with the resources you already have</b>. Focus on your library’s strengths. How can you use those strengths to make small improvements to your overall capacity?</div>
 
 Using your reflection from section 2, you can get a broad view of the capacity of your library. As you look at the tools you have in each area, start to assess: where are the strengths of your library? Where might there be easy improvements that could increase your capacity in certain areas? Again, thinking back to past programs can be a helpful way to start mapping these out.

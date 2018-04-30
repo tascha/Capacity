@@ -15,5 +15,4 @@ As you can see from the list above, many aspects of capacity are interconnected.
 
 If you know the unique capacity of your library, programing using those strengths can help your library reach its full potential.
 
-| While we have been discussing the idea of capacity in the following areas: partnerships, technology acquisition, technology use, space, and staffing, it is important to keep in mind that your unique capacity will not keep your library from being able to implement connected learning infused youth programs. These concepts can be used in all libraries, regardless of capacity! Later in the module we will discuss how to troubleshoot capacity challenges for your library, no matter the building or budget size. |
-| --- |
+<div class="table-format sidebar">While we have been discussing the idea of capacity in the following areas: partnerships, technology acquisition, technology use, space, and staffing, it is important to keep in mind that your unique capacity will not keep your library from being able to implement connected learning infused youth programs. These concepts can be used in all libraries, regardless of capacity! Later in the module we will discuss how to troubleshoot capacity challenges for your library, no matter the building or budget size.</div>

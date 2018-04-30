@@ -1,7 +1,7 @@
 # Determining Community Need {#determining-community-need}
-
-| **After completing this section, you will be able to:** |
-| --- |
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS SECTION</h5></span>
+After completing this section, you will be able to...
+<ul><li>Create a list of your community’s unique strengths and assets</li><li>Identify possible community partnerships</li><li>Find new and unique ways to address community needs</li></ul></div>
 
 Libraries are a center of their communities. Your library might often host community events, perform outreach to different parts of your community (for example schools and/or daycares), or play a key role in community fundraising. Libraries are built to provide for their communities, and many libraries have different ways to determine community need. Some libraries host “town hall” style events to hear from their communities, while others might use online surveys. Knowing the needs of your community is likely something your library has already been working on. However, understanding the needs of your community in relation to your library’s unique capacity can help to strengthen an already strong system.
 
@@ -18,3 +18,95 @@ Community assets can be as broad as entire organizations, or as specific as indi
 **Services** are assets that help to improve the quality of life for your community. They can be as simple as bus routes and other public transportation, or as complex as cultural organizations or childhood development centers. These services can often supplement and expand your library’s capacity in partnerships and outreach services.
 
 **Businesses** can be large businesses like coffee chains or technology developers, or small businesses that are locally owned and operated. When thinking about the businesses in your community, it is important to think even as small as businesses like food trucks or ones that might be operating out of a community member’s garage. Every business has the opportunity to support your library and your community. Businesses often supplement a variety of capacities, including technology, space, partnerships, and staffing.
+
+<div class="table-format case-study"><span class="title"><h5>Professor John McKnight on Community Assets</a></h5></span>
+<a href="http://mn.gov/mnddc/mcKnight/johnMcKnight2_02.html">
+<img src="../assets/john_mcknight_video_image.jpeg"/></a>
+</div>
+
+Let’s take a moment to reflect on the community that your library serves. As you do this, bring up the map you created in the Community Mapping module.Think about the people, places, services and businesses that make up your community that you marked on this map. It can be helpful to visualize your Community Map in relation to their strengths and assets, and can be done in a very similar way to assessing the capacity of your library. As you are doing this, keep in mind which assets and strengths might be the most helpful in relation to your library’s capacity. Here’s an example:
+
+**Midsize Library Community Assets &amp; Strengths**
+
+Let’s use the same midsize library from our example in the beginning of the module. First, we will make a list of our community assets in each category:
+
+| Type of Asset  | Asset Name |
+| --- | --- |
+| **Individuals** | <ul><li>Anne Park--Software engineer</li><li>Ray Neng--Renovator</li><li>Richard Bell--Commercial baker</li><li>Holly Lampard--Mechanical engineer</li></ul>|
+| **Places** | <ul><li>Parkland Elementary</li><li>Orchard Ridge High School</li><li>Red Mark Burgers</li><li>Parkland Church</li><li>Greenriver Park</li></ul> |
+| **Services** | <ul><li>Community Transit</li><li>Early Beginnings Childhood Center</li><li>Boys and Girls Club</li><li>Orchard Ridge Cultural Center</li></ul> |
+| **Businesses** | <ul><li>Red Mark Burgers</li><li>Kern Writing &amp; Math Tutoring</li><li>Starbanks</li><li>Guaco’s Taco Truck</li><ul> |
+
+Then, we will expand to list their strengths:
+
+| Type of Asset  | Asset Name | Strengths |
+| --- | --- |
+| **Individuals** | <ul><li>Anne Park--Software engineer</li><li>Ray Neng--Renovator</li><li>Richard Bell--Commercial baker</li><li>Holly Lampard--Mechanical engineer</li></ul>|<ul><li>Technological knowledge</li><li>Master carpenter</li><li>Digital artist and knitter</li><li>Engineer and 3D designer</li></ul>|
+| **Places** | <ul><li>Parkland Elementary</li><li>Orchard Ridge High School</li><li>Red Mark Burgers</li><li>Parkland Church</li><li>Greenriver Park</li></ul> |<ul><li>Large community space</li><li>Hi-tech theater, computer lab with over 30 seats</li><li>Often hosts fundraisers</li><li>Community dinners</li><li>Large open field</li></ul>
+| **Services** | <ul><li>Community Transit</li><li>Early Beginnings Childhood Center</li><li>Boys and Girls Club</li><li>Orchard Ridge Cultural Center</li></ul> |<ul><li>Buses run until midnight</li><li>Childhood development knowledge</li><li>Afterschool programs</li><li>Community space and community contacts</li></ul>|
+| **Businesses** | <ul><li>Red Mark Burgers</li><li>Kern Writing &amp; Math Tutoring</li><li>Starbanks</li><li>Guaco’s Taco Truck</li><ul> |<ul><li>Same as above</li><li>Tutoring and homework help, teen volunteer contacts</li><li>Caters coffee and pastries</li><li>Catering, community contacts</li></ul>
+
+
+
+
+**Reflection**
+
+Now it is your turn--what are the assets in your community? What strengths do they bring to the table? Take a moment to reflect, using your Community Map to help you.
+
+**Community Needs**
+
+Now that we have briefly revisited how to assess community assets and strengths and reframed in terms of our library’s capacity, we are well prepared to think deeply about community needs. In the following section, we will also be covering how we might be able to leverage the strengths in our community to meet those needs.
+
+**Leveraging Community Assets to Address Community Needs**
+
+>“Each time a person uses his or her capacity, the community is stronger and the person more powerful. That is why strong communities are basically places where the capacities of local residents are identified, valued, and used.” <br/>-- Kretzmann, J. P., &amp; McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. P. 13.
+
+The needs and assets of your community are two sides of the same coin. Being able to map out both your community assets and your community needs gives you a comprehensive picture of your library’s capacity in relation to its unique community. Community needs can include the needs of community organizations, groups, and individuals. A good example of a community organization need is the lack of a meeting space, or perhaps funding to cover organization activities. A need on the individual level includes things like accommodation needs, or the need for clean drinking water. Examining your community closely can help you to understand what gaps exist between what is currently available and what should be available.
+
+Community needs and assets connect directly with assessing the capacity of your library. What are your capacity needs? How are they related to community needs? What assets can you leverage to fill these gaps?
+
+When assessing community needs it is important to collect information from as many members of the community as possible. Luckily, you’ve already identified some tools to do this in our Community Mapping module, in section 3.4 “Learn About Your Community Assets.” In this section we will be discussing additional tools that you can use which are especially strong when assessing your library’s capacity and community needs. As a starting point, brainstorming about your community and identifying the groups that make up your community can be helpful. Talking with other workers in your library, as well as patrons, can help you to make sure you have not left any community members out of your analysis. From here, there are a variety of next steps that you can follow to assess the needs of your community:
+
+| **Informal Interviews** | **Informal interviews** are open-ended interviews that do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. |
+| --- | --- |
+| **Town Halls** | **Town Halls** are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping. |
+| **Other Informal Methods** | Other informal methods include: |
+
+Once you have used one or more of these methods to collect information about your community and their needs, you can map these out visually. Here is an example using our favorite midsize library:
+
+| **Community** | **Name** | **Needs** |
+| --- | --- | --- |
+| **Individuals** | 
+
+*   Carmen
+*   Alan
+*   Elaine
+
+ | -Better wheelchair access |
+| **Groups** | 
+
+*   Teens
+*   Parents
+*   Deaf Community
+*   Autistic Community
+
+ | -Cooperative learning space |
+| **Associations** | 
+
+*   Neighborhood Association I
+*   Neighborhood Association II
+*   PTA
+
+ | -More Farsi language books and materials |
+| **Institutions** | 
+
+*   Parkland Elementary School
+*   Harbor Middle School
+*   Orchard Ridge High School
+
+ | -Technology programs for elementary students |
+
+You may have noticed that this map lists the needs of community members in relation to our Midsize library. We encourage you, in your own assessment, to list the needs of your community members that don’t necessarily relate to your library in addition to this list. These can include needs like: resources access for your homeless community, musical instruments for the high school band, and more. While ways to support your community in these needs might not be obvious at first, knowing that the needs exist can help your library to provide supplemental resources. For example, while your library cannot provide laundry machines for your homeless youth, it can provide pamphlets with maps marking where safe facilities like that are freely available.
+
+| **ADDITIONAL RESOURCES** |
+| --- |
