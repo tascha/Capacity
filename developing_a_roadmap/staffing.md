@@ -20,5 +20,4 @@ The ALA has a few great resources on volunteers in your library, including [tips
 
 Take a moment to think about you library and its unique capacity. How can you see your community strengths helping to supplement your library? Who are the key players in this vision? Write down their names, and keep them in mind when you are performing your next capacity assessment.
 
-| **ADDITIONAL RESOURCES** |
-| --- |
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span><ul><li>Rita Pellen, & William Miller. (2014). Libraries Beyond Their Institutions: Partnerships That Work. Taylor and Francis.</li><li>https://clalliance.org/publications/good-intentions-real-outcomes-equity-design-learning-technologies/</li><li>http://www.techsoupforlibraries.org/blog</li></ul></div>

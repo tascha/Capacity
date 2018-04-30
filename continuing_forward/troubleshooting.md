@@ -12,8 +12,9 @@ Here is a broad list of common capacity challenges:
 
 **Addressing Common Capacity Challenges**
 
-| **Small Library** | **Small Libraries** often have difficulty providing space for engaging library programs, as well as compounding challenges that come hand in hand with having a smaller library, like a typically lower annual budget than larger libraries. Here, we will be focusing on space. How can you troubleshoot space capacity in a small library? |
+|Challenge|Description|
 | --- | --- |
+| **Small Library** | **Small Libraries** often have difficulty providing space for engaging library programs, as well as compounding challenges that come hand in hand with having a smaller library, like a typically lower annual budget than larger libraries. Here, we will be focusing on space. How can you troubleshoot space capacity in a small library? |
 | **Low Technology Budget** | **Libraries with a small technology budget** often struggle to keep up with the media demands of their patrons. With technology constantly developing, it can be hard to keep up. It can also be difficult to afford enough computers to keep patrons happy. How can you troubleshoot technology acquisition with a small budget? |
 | **Low Acquisitions Budget** | **Libraries that cannot afford many new materials** are constantly on the lookout for ways to buy new books and licenses that will be the most impactful for their patrons. How can you troubleshoot new material acquisition with a small budget? |
 | **Small Volunteer Group** | **Libraries with few volunteers** might have trouble keeping up with the demands on their staff and might not be able to focus on staffing new programs in their libraries. How can these libraries troubleshoot ways to increase their volunteer population? |

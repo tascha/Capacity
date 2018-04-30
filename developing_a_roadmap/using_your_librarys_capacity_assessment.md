@@ -16,35 +16,12 @@ The first step in this process is to revisit the needs of your community and com
 
 | **Community** | **Name** | **Needs** |
 | --- | --- | --- |
-| **Individuals** | 
+| **Individuals** | <ul><li>Carmen</li><li>Alan</li><li>Elaine</li></ul> | <ul><li>Better wheelchair access</li><li>Resume and job training</li><li>-Sensory friendly lighting</li></ul>|
+| **Groups** | <ul><li>Teens</li><li>Parents</li><li>Deaf Community</li><li>Autistic Community</li></ul> | <ul><li>Cooperative learning space</li><li>Stroller parking</li><li>ASL speakers</li><li>Staff sensitivity training</li></ul> |
+| **Associations** | <ul><li>Neighborhood Association I</li><li>Neighborhood Association II</li><li>PTA</li></ul> | <ul><li>More Farsi language books and materials</li><li>New member recruitment through posters, etc.</li><li>Additional meeting space</li></ul> |
+| **Institutions** | <ul><li>Parkland Elementary School</li><li>Harbor Middle School</li><li>Orchard Ridge High School</li></ul> | <ul><li>Technology programs for elementary students</li><li>Tween library representation and materials</li><li>Additional teen services outreach</li></ul> |
 
-*   Carmen
-*   Alan
-*   Elaine
 
- | -Better wheelchair access |
-| **Groups** | 
-
-*   Teens
-*   Parents
-*   Deaf Community
-*   Autistic Community
-
- | -Cooperative learning space, additional technology access |
-| **Associations** | 
-
-*   Neighborhood Association I
-*   Neighborhood Association II
-*   PTA
-
- | -More Farsi language books and materials |
-| **Institutions** | 
-
-*   Parkland Elementary School
-*   Harbor Middle School
-*   Orchard Ridge High School
-
- | -Technology programs for elementary students |
 
 Remember, this needs assessment was framed in the context of library related needs. Take a look at the needs identified--what themes are present? Which needs seem to be the most difficult for the midsize library’s capacity? Which seem the easiest to address?
 
@@ -54,8 +31,8 @@ Next, we will use one example from the midsize library’s capacity assessment t
 
 | Technology | Strengths | Community Needs Addressable |
 | --- | --- | --- |
-| Acquisition | Technology partnership with Neighborhood Association II | -Additional technology access |
-| Use | Knowledgeable staff | -Technology programs for elementary students |
+| Acquisition | Technology partnership with Neighborhood Association II | **Additional technology access:** Library could use additional technology to help with Teen programming |
+| Use | Knowledgeable staff | **Technology programs for elementary students:** Library staff can work with schools and PTA to develop new technology infused programs |
 
 Once you have determined how you can highlight and use your library’s current capacity to meet community needs, the next step is to identify areas that your library capacity might not be able to currently cover. From there, you can use your community assets assessment from section 3 to see where utilizing community strengths could supplement your library’s capacity. Let’s take a look at what something like that might look like.
 
@@ -63,35 +40,12 @@ Once you have determined how you can highlight and use your library’s current 
 
 | **Community** | **Name** | **Needs** |
 | --- | --- | --- |
-| **Individuals** | 
+| **Individuals** | <ul><li>Carmen</li><li>Alan</li><li>Elaine</li></ul> | <ul><li>Better wheelchair access</li><li><b>Resume and job training</b></li><li><b>Sensory friendly lighting</b></li></ul>|
+| **Groups** | <ul><li>Teens</li><li>Parents</li><li>Deaf Community</li><li>Autistic Community</li></ul> | <ul><li>Cooperative learning space</li><li>Stroller parking</li><li><b>ASL speakers</b></li><li>Staff sensitivity training</li></ul> |
+| **Associations** | <ul><li>Neighborhood Association I</li><li>Neighborhood Association II</li><li>PTA</li></ul> | <ul><li>More Farsi language books and materials</li><li>New member recruitment through posters, etc.</li><li>Additional meeting space</li></ul> |
+| **Institutions** | <ul><li>Parkland Elementary School</li><li>Harbor Middle School</li><li>Orchard Ridge High School</li></ul> | <ul><li>Technology programs for elementary students</li><li><b>Tween library representation and materials</B></li><li>Additional teen services outreach</li></ul> |
 
-*   Carmen
-*   Alan
-*   Elaine
 
- | -Better wheelchair access |
-| **Groups** | 
-
-*   Teens
-*   Parents
-*   Deaf Community
-*   Autistic Community
-
- | -Cooperative learning space, additional technology access |
-| **Associations** | 
-
-*   Neighborhood Association I
-*   Neighborhood Association II
-*   PTA
-
- | -More Farsi language books and materials |
-| **Institutions** | 
-
-*   Parkland Elementary School
-*   Harbor Middle School
-*   Orchard Ridge High School
-
- | -Technology programs for elementary students |
 
 As you can see in this example, there are quite a few needs that the current library’s capacity cannot cover. When you are following this process for you own library, you may have more or less community needs highlighted--do not be intimidated by this step! This is simply a tool that will help you identify areas of growth. An important part of this process is brainstorming ways to cover community needs that are not yet being addressed, and seeing how the strengths of your community can help you achieve your goals.
 
@@ -108,7 +62,5 @@ The next step in this assessment process includes comparing the highlighted need
 
 Capacity assessment is about intimately learning about your library and its surrounding community. When you have this knowledge, the strengths in your community can surprise you and help your library grow its capacity in new and creative ways. As you can see from the example above, even the smallest community strength can have a big impact on your library’s capacity.
 
-| **IDENTIFYING COMMUNITY PARTNERSHIPS** |
-| --- |
-
-Now that you have ideas on how to successfully leverage community strengths to help grow your toolbox broadly, let’s take a moment to focus on growing your library’s specific capacities in technology, space, and staffing. Each of these three aspects of your library’s unique capacity have their own considerations for leveraging community assets.
+<div class="table-format sidebar"><span class="title"><h5>IDENTIFYING COMMUNITY PARTNERSHIPS</h5>
+Now that you have ideas on how to successfully leverage community strengths to help grow your toolbox broadly, let’s take a moment to focus on growing your library’s specific capacities in technology, space, and staffing. Each of these three aspects of your library’s unique capacity have their own considerations for leveraging community assets.</div>
